@@ -7,8 +7,6 @@ Explorando Python, Pandas e SQL
 - Limpeza de dados  
 - Visualização simples  
 - Estatísticas básicas
-- SQL
-- Python 
 
 ## 📌 Próximos passos
 - Machine Learning básico  
