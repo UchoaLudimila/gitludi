@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Ludi  
+# 👋 Olá mundo, eu sou a Ludi  
 
 Iniciante em **Ciência de Dados**  
 Explorando Python, Pandas e SQL  
